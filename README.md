@@ -1,7 +1,7 @@
 - Intro to Spring
 - [Bean lifecycle](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/Lifecycle.md)
 - [Scopes of a bean](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/Scopes.md)
-- Spring IOC Container & Dependency Injection
+- [Spring IOC Container & Dependency Injection](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/IOC.md)
 - Bean Factory vs Application Context
 - Injecting primitives (XML)
 - Injecting objects (XML and Java Class)
