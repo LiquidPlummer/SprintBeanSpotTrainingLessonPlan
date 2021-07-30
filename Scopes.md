@@ -1,6 +1,6 @@
-singleton
-prototype
-request
-session
-application
-websocket
+- singleton
+- prototype
+- request
+- session
+- application
+- websocket
