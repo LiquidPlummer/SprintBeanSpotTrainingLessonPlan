@@ -1,6 +1,6 @@
 - Intro to Spring
 - Bean lifecycle
-- Scopes of a bean
+- [Scopes of a bean](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/Scopes.md)
 - Spring IOC Container & Dependency Injection
 - Bean Factory vs Application Context
 - Injecting primitives (XML)
