@@ -7,4 +7,4 @@
 - Injecting objects (XML and Java Class)
 - XML vs Annotation-based configuration
 - Annotations
-- Stereotypes
+- [Stereotypes](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/Stereotypes.md)
