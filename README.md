@@ -7,7 +7,7 @@
     - Applicationcontext
       - specific ApplicationContexts
 - [IoC and Dependency Injection](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/overview-ioc-injection.md)
-- Scopes
+- [Scopes](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/overview-scopes.md)
   - Singleton*
   - Prototype
   - Request**
