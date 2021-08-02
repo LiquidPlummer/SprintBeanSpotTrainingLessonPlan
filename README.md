@@ -15,7 +15,7 @@
   - Global Session**
   - Application**
 - [Lifecycle](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/overview-bean-lifecycle.md)
-- @Bean Stereotypes
+- [@Bean Stereotypes](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/overview-stereotypes.md)
   - @Component
   - @Repository
   - @Service
