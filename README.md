@@ -1,6 +1,12 @@
-# Kyle's Spring Bean Spot Training Lesson Plan That's Really Good and That Will Help Everyone Learn to Embrace The Bean
+# Spring Bean Spot Training
+### Spring Bean Scopes and Lifecycle
+Go into detail about the spring bean lifecycle and scopes
+### IoC and DI
+Offer context surrounding beans and Inversion of Control
+### Stereotypes
+Some specific types of beans one might see
 
-## Overview
+## Overview - Bean Context
 Today I'll be talking a bit about Spring Beans, their lifecycle, and a bit about how and why they are used. 
 
 What is a bean? A bean is an object that is instantiated and managed by the Spring IoC container. The purpose of beans is Dependency Injection, to achieve loose coupling.
