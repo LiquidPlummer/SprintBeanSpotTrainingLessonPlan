@@ -6,7 +6,7 @@
   - BeanFactory
     - Applicationcontext
       - specific ApplicationContexts
-- IoC and Dependency Injection
+- [IoC and Dependency Injection](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/overview-ioc-injection.md)
 - Scopes
   - Singleton*
   - Prototype
