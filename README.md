@@ -1,6 +1,6 @@
 # Kyle's Spring Bean Spot Training Lesson Plan That's Really Good and That Everyone Will Love
 
-##Overview
+## Overview
 
 - Bean containers
   - BeanFactory
@@ -26,7 +26,7 @@
 \** Only valid with web-aware ApplicationContext  
  
  
-##Links
+## Links
 
 - Intro to Spring
 - [Bean lifecycle](https://gitlab.com/revature_training/spring-team/-/blob/master/modules/framework/bean-lifecycle.md)
