@@ -13,11 +13,12 @@ So now, to wrap this all together: Dependency injection of beans to achieve lose
 
 Take web service for example. With just a few set up steps you can get a simple restful API up and running with Spring, by giving control of handling everything to spring. You configure settings like path and port, but you otherwise don't care about implementation. You don't have to instantiate objects and dependencies, spin up a thread pool, listen for incoming connections, establish sockets, and all that. You let Spring do all this for you, you hand control off to spring. The spring hands control back once a request is ready, you handle it, and hand control back to spring. 
 
-- [Bean containers](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/overview-containers.md)
+
+- IoC and Dependency Injection
+- [IoC containers](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/overview-containers.md)
   - BeanFactory
     - Applicationcontext
       - specific ApplicationContexts
-- [IoC and Dependency Injection](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/overview-ioc-injection.md)
 - [Scopes](https://github.com/LiquidPlummer/SprintBeanSpotTrainingLessonPlan/blob/main/overview-scopes.md)
   - Singleton*
   - Prototype
