@@ -1,13 +1,4 @@
 # Spring Bean Spot Training
-### Spring Bean Scopes and Lifecycle
-Go into detail about the spring bean lifecycle and scopes
-### IoC and DI
-Offer context surrounding beans and Inversion of Control
-### Stereotypes
-Some specific types of beans one might see  
-  
-    
-
 
 ## Overview - Bean Context
 Today I'll be talking a bit about Spring Beans, their lifecycle, and a bit about how and why they are used. 
