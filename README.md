@@ -4,7 +4,14 @@ Go into detail about the spring bean lifecycle and scopes
 ### IoC and DI
 Offer context surrounding beans and Inversion of Control
 ### Stereotypes
-Some specific types of beans one might see
+Some specific types of beans one might see  
+  
+    
+For Ryan's batch: 
+ - Ask about IoC
+ - Ask about DI
+ - Ask about loose coupling
+ - Then get into content
 
 ## Overview - Bean Context
 Today I'll be talking a bit about Spring Beans, their lifecycle, and a bit about how and why they are used. 
