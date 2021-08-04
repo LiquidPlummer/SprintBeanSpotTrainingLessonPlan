@@ -7,6 +7,7 @@
   - The bean is made aware of any associated interfaces as well.
   - [BeanNameAware.setBeanName()](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/BeanNameAware.html)
   - [BeanFactoryAware.setBeanFactory()](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/BeanFactoryAware.html)
+  - [ApplicationContextAware.setApplicationContext](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContextAware.html)
 - Initialization
   - Any other methods, particularly custom created methods, are invoked.
     - [InitializingBean.afterPropertiesSet()](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/InitializingBean.html#afterPropertiesSet--)
